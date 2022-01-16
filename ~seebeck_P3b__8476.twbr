@@ -3249,9 +3249,9 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='88875' id='7' param='horz' type-v2='layout-flow' w='99038' x='481' y='10147'>
-            <zone h='88875' id='5' type-v2='layout-basic' w='99038' x='481' y='10147'>
-              <zone h='88875' id='3' name='3PM vs 3PA per Game each Season' w='49519' x='481' y='10147'>
+          <zone h='88875' id='7' param='horz' type-v2='layout-flow' w='99002' x='499' y='10147'>
+            <zone h='88875' id='5' type-v2='layout-basic' w='99002' x='499' y='10147'>
+              <zone h='88875' id='3' name='3PM vs 3PA per Game each Season' w='49501' x='499' y='10147'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -3259,7 +3259,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='88875' id='9' name='3P% per year' w='49519' x='50000' y='10147'>
+              <zone h='88875' id='9' name='3P% per year' w='49501' x='50000' y='10147'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -3269,8 +3269,8 @@
               </zone>
             </zone>
           </zone>
-          <zone h='9169' id='10' type-v2='layout-flow' w='99038' x='481' y='978'>
-            <zone h='9169' id='8' name='3PM vs 3PA per Game each Season' pane-specification-id='1' param='[federated.1xzyn7t0q2zmm811je38u0rupfrj].[:Measure Names]' type-v2='color' w='99038' x='481' y='978'>
+          <zone h='9169' id='10' type-v2='layout-flow' w='99002' x='499' y='978'>
+            <zone h='9169' id='8' name='3PM vs 3PA per Game each Season' pane-specification-id='1' param='[federated.1xzyn7t0q2zmm811je38u0rupfrj].[:Measure Names]' type-v2='color' w='99002' x='499' y='978'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -3338,9 +3338,9 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='88875' id='12' param='horz' type-v2='layout-flow' w='99038' x='481' y='10147'>
-            <zone h='88875' id='5' type-v2='layout-basic' w='99038' x='481' y='10147'>
-              <zone h='44437' id='9' name='3PM by 3P% Leaders' w='99038' x='481' y='54585'>
+          <zone h='88875' id='12' param='horz' type-v2='layout-flow' w='99002' x='499' y='10147'>
+            <zone h='88875' id='5' type-v2='layout-basic' w='99002' x='499' y='10147'>
+              <zone h='44437' id='9' name='3PM by 3P% Leaders' w='99002' x='499' y='54585'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -3348,7 +3348,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='44438' id='10' name='3P% Leaders' w='99038' x='481' y='10147'>
+              <zone h='44438' id='10' name='3P% Leaders' w='99002' x='499' y='10147'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -3358,8 +3358,8 @@
               </zone>
             </zone>
           </zone>
-          <zone h='9169' id='14' type-v2='layout-flow' w='99038' x='481' y='978'>
-            <zone h='9169' id='13' name='3P% Leaders' pane-specification-id='0' param='[federated.0eahcse1q12r7v1h8ct9k1lnnbko].[Active Status]' type-v2='color' w='99038' x='481' y='978'>
+          <zone h='9169' id='14' type-v2='layout-flow' w='99002' x='499' y='978'>
+            <zone h='9169' id='13' name='3P% Leaders' pane-specification-id='0' param='[federated.0eahcse1q12r7v1h8ct9k1lnnbko].[Active Status]' type-v2='color' w='99002' x='499' y='978'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -3456,7 +3456,7 @@
             </zone>
           </zone>
           <zone h='9169' id='14' type-v2='layout-flow' w='49501' x='499' y='978'>
-            <zone h='3301' id='10' name='All Time Leaders: Career 3PM' pane-specification-id='0' param='[federated.0eahcse1q12r7v1h8ct9k1lnnbko].[Active Status]' type-v2='color' w='49501' x='499' y='978'>
+            <zone h='9169' id='10' name='All Time Leaders: Career 3PM' pane-specification-id='0' param='[federated.0eahcse1q12r7v1h8ct9k1lnnbko].[Active Status]' type-v2='color' w='49501' x='499' y='978'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -3466,7 +3466,7 @@
             </zone>
           </zone>
           <zone fixed-size='160' h='9169' id='8' is-fixed='true' param='vert' type-v2='layout-flow' w='49501' x='50000' y='978'>
-            <zone h='3301' id='13' name='Career 3PM per Game' pane-specification-id='2' param='[federated.0eahcse1q12r7v1h8ct9k1lnnbko].[:Measure Names]' type-v2='color' w='49501' x='50000' y='978'>
+            <zone h='6601' id='13' name='Career 3PM per Game' pane-specification-id='2' param='[federated.0eahcse1q12r7v1h8ct9k1lnnbko].[:Measure Names]' type-v2='color' w='49501' x='50000' y='978'>
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -3937,7 +3937,7 @@
             <zone h='6112' id='3' type-v2='title' w='99002' x='499' y='978' />
             <zone h='12347' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99002' x='499' y='7090' />
             <zone h='79585' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99002' x='499' y='19437'>
-              <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='4' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='All Time Leaders Career 3PM' captured-sheet='Career 3PM Leaders' id='1'>
                     <capturedDeltas>
@@ -3978,12 +3978,12 @@
     </dashboard>
   </dashboards>
   <windows source-height='229'>
-    <window class='dashboard' name='Story 1'>
+    <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
-      <active id='4' />
+      <active id='-1' />
       <simple-id uuid='{86235C77-4F70-41E7-AE0A-CB3E3FE6B367}' />
     </window>
-    <window class='dashboard' maximized='true' name='Career 3PM Leaders'>
+    <window class='dashboard' name='Career 3PM Leaders'>
       <viewpoints>
         <viewpoint name='All Time Leaders: Career 3PM'>
           <zoom type='entire-view' />
