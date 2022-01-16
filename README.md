@@ -70,19 +70,19 @@ However, even though the number of 3 pointers made in a season has increased ove
 
 The last thing that I wanted to look at was career leaders in 3P%. 
 
-Insert Image 7 Here
+![](Images/image_7.JPG)
 
 You can see that Steph Curry is only 7th on this list. However, Steph shoots and has made a lot more three pointers in his career compared to others on this list so his 3P% being a little lower than theirs does not make them better than him. 
 
-Insert Image 8 Here
+![](Images/image_8.JPG)
 
 Lastly for fun I created a shot chart for Steph Curry and one for Shaq to show the difference.
 
 #### Steph Curry Shot Chart 
-Insert Image 9 Here
+![](Images/image_9.JPG)
 
 #### Shaq Shot Chart
-Insert Image 10 Here
+![](Images/image_10.JPG)
 
 
 ## Conclusion 
