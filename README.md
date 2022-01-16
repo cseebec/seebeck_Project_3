@@ -54,16 +54,38 @@ Out of the 20 players with the most career 3 pointers made, Steph Curry leads in
 
 These charts led me to another question, who leads the NBA in career 3 pointers made per game. 
 
-Insert Image here
+![](Images/image_4.JPG)
 
 Steph Curry leads the NBA in career 3 pointers made per game. Additionally, looking at the chart of total 3 pointers made vs number of seasons played extrapolation shows that Steph Curry is on pace to become the leader in career 3PM by a margin (obviously there is a potential that injuries throw a wrench in this but that is very unlikely). Another interesting takeaway from the chart is that many active players including James Harden, Damian Lillard, Klay Thompson, Donovan Mitchell, and even Buddy Hield are all on pace to pass Ray Allen for career 3PM assuming they maintain the same pace of 3 pointers made each season and they have a very long career like Ray Allen did. 
 
 The fact that 9 out of 10 players on the list for career 3 pointers made per game shows that the NBA today takes more 3 pointers than it ever has in the past. To look at this in more detail lets look at total 3PM per season over the history of the NBA.
 
-Insert Image Here
+![](Images/image_5.JPG)
 
 You can see that the number of 3 pointers made per season has steadily increased from when it was introduced in 1980 (which the exception of a spike from 1994 to 1996 when the number of 3 pointers made in a season shot up because the league moved the 3 point line from 23 feet 9 inches to 22 feet. After the line was moved back to 23 feet 9 inches and it has remained at that length since). 
 
 However, even though the number of 3 pointers made in a season has increased over the history of the NBA that does tnot mean that 3 point accuracy has increased as well. In fact the total 3 point % during a season has remained very similar over the years (See chart below) 
 
-Insert Image Here
+![](Images/image_6.JPG)
+
+The last thing that I wanted to look at was career leaders in 3P%. 
+
+Insert Image 7 Here
+
+You can see that Steph Curry is only 7th on this list. However, Steph shoots and has made a lot more three pointers in his career compared to others on this list so his 3P% being a little lower than theirs does not make them better than him. 
+
+Insert Image 8 Here
+
+Lastly for fun I created a shot chart for Steph Curry and one for Shaq to show the difference.
+
+#### Steph Curry Shot Chart 
+Insert Image 9 Here
+
+#### Shaq Shot Chart
+Insert Image 10 Here
+
+
+## Conclusion 
+Steph Curry will end his career with the most career 3 pointers made by a substantial margin. Even though the league has evovled so that players shoot more and more 3 pointers every game, Steph still leads the rest of the NBA with career 3 pointers made per game. Finally, Steph Curry is 7th in career 3P% (the all time leader in career 3P% is Steph Curry's head coach Steve Kerr). However, the other players on this list were shooting a very small volume of 3 pointers compared to Steph Curry. 
+
+So in conclusion based on volume, 3 pointers made per game, and 3P% **Steph Curry is undisputably the greatest 3 pointer shooter in NBA history.** 
