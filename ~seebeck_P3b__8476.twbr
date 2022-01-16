@@ -3937,7 +3937,7 @@
             <zone h='6112' id='3' type-v2='title' w='99002' x='499' y='978' />
             <zone h='12347' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99002' x='499' y='7090' />
             <zone h='79585' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99002' x='499' y='19437'>
-              <flipboard active-id='4' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='5' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='All Time Leaders Career 3PM' captured-sheet='Career 3PM Leaders' id='1'>
                     <capturedDeltas>
@@ -3977,10 +3977,10 @@
       <simple-id uuid='{AC188634-D115-4F5F-A31A-82782490807E}' />
     </dashboard>
   </dashboards>
-  <windows source-height='229'>
+  <windows source-height='228'>
     <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
-      <active id='-1' />
+      <active id='5' />
       <simple-id uuid='{86235C77-4F70-41E7-AE0A-CB3E3FE6B367}' />
     </window>
     <window class='dashboard' name='Career 3PM Leaders'>
@@ -4110,7 +4110,7 @@
     <window class='worksheet' name='3P% Leaders'>
       <cards>
         <edge name='left'>
-          <strip size='133'>
+          <strip size='132'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
